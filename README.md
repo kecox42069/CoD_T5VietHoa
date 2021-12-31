@@ -1,4 +1,4 @@
-# Giới thiệu Call of Duty: Black Ops Việt hóa:
+# Giới thiệu Call of Duty: Black Ops Việt hóa
 
 Bản việt hóa đã dịch toàn bộ nhiệm vụ chiến dịch nhưng chỉ trừ phần menu và những cái tương tự do giới hạn của engine.
 
