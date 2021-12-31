@@ -6,7 +6,7 @@ Bản việt hóa đã dịch toàn bộ nhiệm vụ chiến dịch nhưng ch�
 [Call of Duty: Black Ops](https://store.steampowered.com/app/42700/Call_of_Duty_Black_Ops/) từ Steam (tôi không biết bản mod có dùng được cho "thuốc" hay không) <br />
 [Game_Mod](https://github.com/Nukem9/LinkerMod/releases)
 
-# Wiki
+# Hướng dẫn cài
 Insert wiki here
 
 # Tool đã sử dụng cho bản việt hóa:
