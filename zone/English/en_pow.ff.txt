@@ -56,95 +56,95 @@
 
 |<^1MASON: ^7Woods...>|
 
-|<^1MASON: ^7Dragovich ðang chõi chúng ta.>|
+|<^1MASON: ^7Dragovich Ä‘ang chÆ¡i chÃºng ta.>|
 
-|<^1MASON: ^7Dragovich is messing with us. (d?ch nhý trên)>|
+|<^1MASON: ^7Dragovich is messing with us. (dá»‹ch nhÆ° trÃªn)>|
 
 |<^1MASON: ^7Bowman...>|
 
-|<^1BOWMAN: ^7Tôi m?t l?m r?i. Tôi ch? mu?n chuy?n này k?t thúc thôi.>|
+|<^1BOWMAN: ^7TÃ´i má»‡t láº¯m rá»“i. TÃ´i chá»‰ muá»‘n chuyá»‡n nÃ y káº¿t thÃºc thÃ´i.>|
 
-|<^1MASON: ^7Bowman, ð?ng!>|
+|<^1MASON: ^7Bowman, Ä‘á»«ng!>|
 
-|<^1MASON: ^7You don't mean that, Bowman. (t?m d?ch: anh có bao gi? nhý v?y ðâu bowman)>|
+|<^1MASON: ^7You don't mean that, Bowman. (táº¡m dá»‹ch: anh cÃ³ bao giá» nhÆ° váº­y Ä‘Ã¢u bowman)>|
 
-|<^1BOWMAN: ^7Th?ng... chó... Vi?t C?ng...>|
+|<^1BOWMAN: ^7Tháº±ng... chÃ³... Viá»‡t Cá»™ng...>|
 
-|<^1BOWMAN: ^7Screw... you... Charlie... (t?m d?ch nhý trên)>|
+|<^1BOWMAN: ^7Screw... you... Charlie... (táº¡m dá»‹ch nhÆ° trÃªn)>|
 
-|<^1VC BOOKIE: ^7Mày ch?t ch?c r?i, th?ng M?o.>|
+|<^1VC BOOKIE: ^7MÃ y cháº¿t cháº¯c rá»“i, tháº±ng Máº½o.>|
 
-|<^1BOWMAN: ^7Mày ðéo d?a ðý?c tao ðâu. Th?ng C?ng s?n r? rách...>|
+|<^1BOWMAN: ^7MÃ y Ä‘Ã©o dá»a Ä‘Æ°á»£c tao Ä‘Ã¢u. Tháº±ng Cá»™ng sáº£n ráº» rÃ¡ch...>|
 
-|<^1BOWMAN: ^7You don't scare me. Communist piece of... (g?n nhý trên)>|
+|<^1BOWMAN: ^7You don't scare me. Communist piece of... (gáº§n nhÆ° trÃªn)>|
 
-|<^1MASON: ^7Bowman, ð?ng làm th?!>|
+|<^1MASON: ^7Bowman, Ä‘á»«ng lÃ m tháº¿!>|
 
 |<^1SPETSNAZ OPERATIVE: ^7Raggh! Raggh! Raggh!>|
 
-|<^1MASON: ^7Bowman! BOWMAN! Th?ng chó ð? kia!>|
+|<^1MASON: ^7Bowman! BOWMAN! Tháº±ng chÃ³ Ä‘áº» kia!>|
 
 |<^1MASON: ^7Bowman! BOWMAN!>|
 
-|<^1SPETSNAZ OPERATIVE: ^7Ti?p.>|
+|<^1SPETSNAZ OPERATIVE: ^7Tiáº¿p.>|
 
-|<^1MASON: ^7Tao s? gi?t h?t chúng mày!>|
+|<^1MASON: ^7Tao sáº½ giáº¿t háº¿t chÃºng mÃ y!>|
 
-|<^1WOODS: ^7S? mó cc...>|
+|<^1WOODS: ^7Sá» mÃ³ cc...>|
 
-|<^1MASON: ^7Woods? Không ?n r?i...>|
+|<^1MASON: ^7Woods? KhÃ´ng á»•n rá»“i...>|
 
 |<^1MASON: ^7Woods?>|
 
-|<^1WOODS: ^7Ð?t con m? b?n nó. Chúng ta s? b?t chúng tr? giá.>|
+|<^1WOODS: ^7Äá»‹t con máº¹ bá»n nÃ³. ChÃºng ta sáº½ báº¯t chÃºng tráº£ giÃ¡.>|
 
-|<^1WOODS: ^7Bastards. We're gonna make 'em pay. (g?n nhý trên)>|
+|<^1WOODS: ^7Bastards. We're gonna make 'em pay. (gáº§n nhÆ° trÃªn)>|
 
-|<^1VC BOOKIE: ^7Mày - không nói g? n?a! Chõi!>|
+|<^1VC BOOKIE: ^7MÃ y - khÃ´ng nÃ³i gÃ¬ ná»¯a! ChÆ¡i!>|
 
-|<^1WOODS: ^7K? ho?ch là g??>|
+|<^1WOODS: ^7Káº¿ hoáº¡ch lÃ  gÃ¬?>|
 
-|<^1MASON: ^7Tôi ðang ngh?... Tôi ðang ngh? ðây...>|
+|<^1MASON: ^7TÃ´i Ä‘ang nghÄ©... TÃ´i Ä‘ang nghÄ© Ä‘Ã¢y...>|
 
-|<^1VC BOOKIE: ^7Không nói n?a!>|
+|<^1VC BOOKIE: ^7KhÃ´ng nÃ³i ná»¯a!>|
 
-|<^1WOODS: ^7Cõ hôi duy nh?t, Mason.>|
+|<^1WOODS: ^7CÆ¡ há»™i duy nháº¥t, Mason.>|
 
-|<^1MASON: ^7Chúng ta s? t?n d?ng ðý?c.>|
+|<^1MASON: ^7ChÃºng ta sáº½ táº­n dá»¥ng nÃ³.>|
 
-|<^1VC BOOKIE: ^7B?n b?n b?n!>|
+|<^1VC BOOKIE: ^7Báº¯n báº¯n báº¯n!>|
 
 |<^1WOODS: ^7Okay.>|
 
-|<^1VC BOOKIE: ^7Mày b?n G.I.! Mày b?n trý?c!>|
+|<^1VC BOOKIE: ^7MÃ y báº¯n G.I.! MÃ y báº¯n trÆ°á»›c!>|
 
-|<^1WOODS: ^7Mày không gi?t ðý?c TAO ðâu!>|
+|<^1WOODS: ^7MÃ y khÃ´ng thá»ƒ giáº¿t TAO!>|
 
-|<^1WOODS: ^7Ð?TTTTT!>|
+|<^1WOODS: ^7Äá»ŠTTTTTT!>|
 
 |<^1WOODS: ^7Damn!>|
 
-|<^1WOODS: ^7L?n này... L?n này, làm ði!>|
+|<^1WOODS: ^7Láº§n nÃ y... Láº§n nÃ y, lÃ m Ä‘i!>|
 
 |<^1MASON: ^7Okay, okay. I got the hatchet.>|
 
-|<^1WOODS: ^7S?n sàng>|
+|<^1WOODS: ^7Sáºµn sÃ ng>|
 
-|<^1VC BOOKIE: ^7Chõi!>|
+|<^1VC BOOKIE: ^7ChÆ¡i!>|
 
-|<^1MASON: ^7Hý?ng 6 và 8 gi?.>|
+|<^1MASON: ^7HÆ°á»›ng 6 vÃ  8 giá».>|
 
-|<^1WOODS: ^7S?n sàng.>|
+|<^1WOODS: ^7Sáºµn sÃ ng.>|
 
-|<^1VC BOOKIE: ^7B?n b?n!>|
+|<^1VC BOOKIE: ^7Báº¯n báº¯n báº¯n!>|
 
 |<^1WOODS: ^7Dirty sons of bitches.>|
 
 |<^1WOODS: ^7Dirty sons of...>|
 
-|<^1MASON: ^7Th?ng ngý?i Nga, ðu?i nhanh.>|
+|<^1MASON: ^7Tháº±ng ngÆ°á»i Nga, Ä‘uá»•i nhanh.>|
 
-|<^1WOODS: ^7Ði thôi.>|
+|<^1WOODS: ^7Äi thÃ´i.>|
 
 |<^1WOODS: ^7Don't let that bastard get away!>|
 
@@ -604,131 +604,131 @@
 
 |<^1WOODS: ^7We ain't got time to waste.>|
 
-|<ÿÿ>|
+|<æ¯æ¯>|
 
-|<ÿÿ>|
+|<æ¯æ¯>|
 
-|<ÿÿ>|
+|<æ¯æ¯>|
 
-|<ÿÿ>|
+|<æ¯æ¯>|
 
-|<ÿÿ>|
+|<æ¯æ¯>|
 
-|<ÿÿ>|
+|<æ¯æ¯>|
 
-|<ÿÿ>|
+|<æ¯æ¯>|
 
-|<ÿÿ>|
+|<æ¯æ¯>|
 
-|<ÿÿ>|
+|<æ¯æ¯>|
 
-|<ÿÿ>|
+|<æ¯æ¯>|
 
-|<ÿÿ>|
+|<æ¯æ¯>|
 
-|<ÿÿ>|
+|<æ¯æ¯>|
 
-|<ÿÿ>|
+|<æ¯æ¯>|
 
-|<ÿÿ>|
+|<æ¯æ¯>|
 
-|<ÿÿ>|
+|<æ¯æ¯>|
 
-|<€ª!…z>|
+|<éˆ§îƒ?!éˆ¥?z>|
 
-|<ÿÿ>|
+|<æ¯æ¯>|
 
-|<€@>|
+|<éˆ§ç¸>|
 
-|<ÿÿ>|
+|<æ¯æ¯>|
 
-|<ÿÿ>|
+|<æ¯æ¯>|
 
-|<ÿÿ>|
+|<æ¯æ¯>|
 
-|<ÿÿ>|
+|<æ¯æ¯>|
 
-|<ÿÿ>|
+|<æ¯æ¯>|
 
-|<ÿÿ>|
+|<æ¯æ¯>|
 
-|<ÿÿ>|
+|<æ¯æ¯>|
 
-|<ÿÿ>|
+|<æ¯æ¯>|
 
-|<ÿÿ>|
+|<æ¯æ¯>|
 
-|<ÿÿ>|
+|<æ¯æ¯>|
 
-|<ÿÿ>|
+|<æ¯æ¯>|
 
-|<ÿÿ>|
+|<æ¯æ¯>|
 
-|<ÿÿ>|
+|<æ¯æ¯>|
 
-|<ÿÿ>|
+|<æ¯æ¯>|
 
-|<ÿÿ>|
+|<æ¯æ¯>|
 
-|<ÿÿ>|
+|<æ¯æ¯>|
 
-|<ÿÿ>|
+|<æ¯æ¯>|
 
-|<ÿÿ>|
+|<æ¯æ¯>|
 
-|<ÿÿ>|
+|<æ¯æ¯>|
 
-|<ÿÿ>|
+|<æ¯æ¯>|
 
-|<ÿÿ>|
+|<æ¯æ¯>|
 
-|<ÿÿ>|
+|<æ¯æ¯>|
 
-|<ÿÿ>|
+|<æ¯æ¯>|
 
-|<ÿÿ>|
+|<æ¯æ¯>|
 
-|<ÿÿ>|
+|<æ¯æ¯>|
 
-|<ÿÿ>|
+|<æ¯æ¯>|
 
-|<ÿÿ>|
+|<æ¯æ¯>|
 
-|<ÿÿ>|
+|<æ¯æ¯>|
 
-|<ÿÿ>|
+|<æ¯æ¯>|
 
-|<ÿÿ>|
+|<æ¯æ¯>|
 
-|<ÿÿ>|
+|<æ¯æ¯>|
 
-|<ÿÿ>|
+|<æ¯æ¯>|
 
-|<ÿÿ>|
+|<æ¯æ¯>|
 
-|<ÿÿ>|
+|<æ¯æ¯>|
 
-|<ÿÿ>|
+|<æ¯æ¯>|
 
-|<ÿÿ>|
+|<æ¯æ¯>|
 
-|<ÿÿ>|
+|<æ¯æ¯>|
 
-|<ÿÿ>|
+|<æ¯æ¯>|
 
-|<ÿÿ>|
+|<æ¯æ¯>|
 
-|<ÿÿ>|
+|<æ¯æ¯>|
 
-|<ÿÿ>|
+|<æ¯æ¯>|
 
-|<ÿÿè¸¸>|
+|<æ¯æ¯çŒ«èµ‚èµ‚>|
 
-|<ÿÿè¸¸>|
+|<æ¯æ¯çŒ«èµ‚èµ‚>|
 
-|<ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿy>|
+|<æ¯æ¯æ¯æ¯æ¯æ¯æ¯æ¯æ¯æ¯æ¯æ¯æ¯æ¯æ¯æ¯æ¯æ¯æ¯æ¯æ¯æ¯æ¯æ¯æ¯æ¯æ¯æ¯æ¯æ¯æ¯æ¯æ¯æ¯æ¯æ¯æ¯æ¯æ¯æ¯æ¯æ¯æ¯æ¯æ¯æ¯æ¯æ¯y>|
 
-|<ÿÿÿÿÿÿy>|
+|<æ¯æ¯æ¯æ¯æ¯æ¯y>|
 
 |<mc/mtl_p_jun_group_photo>|
 
