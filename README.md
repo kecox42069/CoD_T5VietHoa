@@ -1,6 +1,6 @@
 # Giới thiệu Call of Duty: Black Ops Việt hóa
 
-Chào mừng tới project Việt hóa CoD BO (T4)! Xin hãy cân nhắc đây không phải là Việt hóa hoàn chỉnh mà đây chỉ là nháp và là nơi để backup project của tôi
+Chào mừng tới project Việt hóa CoD BO (T5)! Xin hãy cân nhắc đây không phải là Việt hóa hoàn chỉnh mà đây chỉ là nháp và là nơi để backup project của tôi
 
 Hiện tại tôi đang cần một người nào đấy có thể chỉnh font và vẽ font để thực hiện bản Việt hóa này nếu bạn có thể làm được xin hãy liên hệ tôi qua Discord: Dũng Chơi Mai Kặc#0551
 
