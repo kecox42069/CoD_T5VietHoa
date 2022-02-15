@@ -15,5 +15,4 @@ lmao
 
 # Tool đã sử dụng cho bản việt hóa:
 [Game_Mod](https://github.com/Nukem9/LinkerMod/releases) <br />
-CoDT5 Text Tool <br />
 Call of Duty Black Ops - Mod Tools (BETA) từ Steam <br />
