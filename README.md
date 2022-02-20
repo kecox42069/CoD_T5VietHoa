@@ -11,7 +11,7 @@ Vậy nếu bạn có hỏi trong tương lai bản việt hóa này được ho
 [Game_Mod](https://github.com/Nukem9/LinkerMod/releases)
 
 # Hướng dẫn cài
-Việt hóa vẫn chưa hề hoàn thiện nhưng nếu bạn muốn thử hãy clone mọi thứ ở trên và tự build nó trong mod tool
+Việt hóa vẫn chưa hề hoàn thiện nên sẽ không có release nào nhưng nếu bạn muốn thử hãy clone mọi thứ ở trên và tự build nó trong mod tool
 
 # Tool đã sử dụng cho bản việt hóa:
 [Game_Mod](https://github.com/Nukem9/LinkerMod/releases) <br />
