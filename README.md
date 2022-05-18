@@ -1,3 +1,4 @@
+# TẠM THỜI DỪNG DỰ ÁN NÀY ĐỂ TẬP TRUNG VÀO VIỆT HÓA [HALO 2](https://viethoagame.com/threads/halo-2-vista-aka-legacy-viet-hoa.350/)
 # Giới thiệu Call of Duty: Black Ops Việt hóa
 
 Chào mừng tới project Việt hóa CoD BO (T5)! Xin hãy cân nhắc đây không phải là Việt hóa hoàn chỉnh mà đây chỉ là nháp và là nơi để backup project của tôi
